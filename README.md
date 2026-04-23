@@ -1,6 +1,6 @@
 # macOS Shortcut Listener
 
-A macOS background utility that listens for shortcut sequences and injects keyboard inputs to draw fun patterns in [RetroCycles](https://retrocycles.com) — a snake/tron-style game where your trail forms the pattern.
+A macOS background utility that listens for shortcut sequences and injects keyboard inputs to draw fun patterns in [RetroCycles](https://www.retrocycles.net/) — a snake/tron-style game where your trail forms the pattern.
 
 ## Patterns
 
